@@ -1,2 +1,2 @@
-# Personel-Yonetim-Paneli
+# SkyCast-Pro-Weather
 HTML5, CSS3 and JS based responsive dashboard interface.
